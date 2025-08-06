@@ -1,7 +1,7 @@
 # 🚗 Distracted Driver Detection using CNN and Transfer Learning (ResNet50)
-[![GitHub last commit](https://img.shields.io/github/last-commit/aispai9995/driver-distraction-detection-python-CNN?color=green&logo=github&style=for-the-badge)](https://github.com/Defcon27/Computer-Vision) 
-[![GitHub top language](https://img.shields.io/github/languages/top/aispai9995/driver-distraction-detection-python-CNN?color=F37626&logo=jupyter&style=for-the-badge)](https://github.com/Defcon27/Computer-Vision) 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/aispai9995/driver-distraction-detection-python-CNN?color=blue&logo=python&style=for-the-badge)](https:/Defcon27/Computer-Vision)
+[![GitHub last commit](https://img.shields.io/github/last-commit/aispai9995/driver-distraction-detection-python-CNN?color=green&logo=github&style=for-the-badge)](https://github.comaispai9995/driver-distraction-detection-python-CNN) 
+[![GitHub top language](https://img.shields.io/github/languages/top/aispai9995/driver-distraction-detection-python-CNN?color=F37626&logo=jupyter&style=for-the-badge)](https://github.com/aispai9995/driver-distraction-detection-python-CNN) 
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/aispai9995/driver-distraction-detection-python-CNN?color=blue&logo=python&style=for-the-badge)](https://github.com/aispai9995/driver-distraction-detection-python-CNN) 
 
 
 ## Objective
