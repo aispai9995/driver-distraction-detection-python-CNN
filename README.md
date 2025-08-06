@@ -1,5 +1,5 @@
 # 🚗 Distracted Driver Detection using CNN and Transfer Learning (ResNet50)
-[![GitHub last commit](https://img.shields.io/github/last-commit/aispai9995/driver-distraction-detection-python-CNN?color=green&logo=github&style=for-the-badge)](https://github.comaispai9995/driver-distraction-detection-python-CNN) 
+[![GitHub last commit](https://img.shields.io/github/last-commit/aispai9995/driver-distraction-detection-python-CNN?color=green&logo=github&style=for-the-badge)](https://github.com/aispai9995/driver-distraction-detection-python-CNN) 
 [![GitHub top language](https://img.shields.io/github/languages/top/aispai9995/driver-distraction-detection-python-CNN?color=F37626&logo=jupyter&style=for-the-badge)](https://github.com/aispai9995/driver-distraction-detection-python-CNN) 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/aispai9995/driver-distraction-detection-python-CNN?style=for-the-badge&color=blue)](https://github.com/aispai9995/driver-distraction-detection-python-CNN)
 
